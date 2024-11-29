@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTIOW", "RTIOW\RTIOW.csproj", "{882885E6-51B5-4F7F-980E-B52BC423E7F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882885E6-51B5-4F7F-980E-B52BC423E7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882885E6-51B5-4F7F-980E-B52BC423E7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882885E6-51B5-4F7F-980E-B52BC423E7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882885E6-51B5-4F7F-980E-B52BC423E7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
